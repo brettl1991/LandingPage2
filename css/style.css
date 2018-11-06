@@ -182,8 +182,8 @@ nav ul {
   margin: 0;
 }
 nav li {
-  display: inline;
-  float: left;
+  display: inline-block;
+  /* float: left; */
 }
 nav a {
   display: inline-block;
