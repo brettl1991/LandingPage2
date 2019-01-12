@@ -1,0 +1,22 @@
+{
+  "name": "responsivelandingpagehtmlandcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettl1991/LandingPage2.git"
+  },
+  "author": "Agnes Brettl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettl1991/LandingPage2/issues"
+  },
+  "homepage": "https://github.com/brettl1991/LandingPage2#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
